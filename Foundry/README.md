@@ -34,5 +34,4 @@ create the snapshot file of the gas
 forge snapshot
 ```
 
-## How to write the testCase
 
