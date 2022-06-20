@@ -160,6 +160,7 @@ contract ContractTest is Test {
 
     function testFuzzTransfer(address to, uint256 amount) external {
         vm.assume(to != address(0));
+        vm.assume(to != address(this));
         token.mint(address(this), amount);
         
         assertTrue(token.transfer(to,amount));
