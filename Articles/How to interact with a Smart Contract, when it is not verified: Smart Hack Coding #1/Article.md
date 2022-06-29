@@ -81,4 +81,4 @@ Also, please do follow [@uv_labs](https://twitter.com/uv_labs) on Twitter and o
 
 Authors (open to feedback): 👇
 
-Jagan, under some guidance from [Amateur-Dev](https://medium.com/u/9cd26cbd96b9?source=post_page-----5311a13d173-----------------------------------)
+[Jagan](https://medium.com/@jagannatheshahi), under some guidance from [Amateur-Dev](https://medium.com/u/9cd26cbd96b9?source=post_page-----5311a13d173-----------------------------------)
