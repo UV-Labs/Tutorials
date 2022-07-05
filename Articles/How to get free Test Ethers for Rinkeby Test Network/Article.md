@@ -6,7 +6,7 @@ We need free test ethers while making transactions or to carry out a contract on
 | S.No.  | Topics covered |
 | ------------- | ------------- |
 | 1  |  Set up the MetaMask  |
-| 2   |   Selecting the Rinkby Test Network  |
+| 2   |   Selecting the Rinkeby Test Network  |
 | 3  | Copy the account address |
 | 4  |  Rinkeby Faucet website  |
 | 5  | Get free test ether  |
