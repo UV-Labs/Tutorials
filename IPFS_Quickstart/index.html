@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>IPFS with Pinata!!</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <div class="card">
+          <h3>Upload Files</h3>
+          <div class="drop_box">
+            <header>
+              <h4>Select File here</h4>
+            </header>
+            <p>Files Supported: PNG, JPG, JPEG</p>
+            <input type="file" hidden accept=".png,.jpg,.jpeg" id="fileID" style="display:none;">
+            <button class="btn">Choose File</button>
+          </div>
+          <div class="ipfs-link">
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src="index.js"></script>
+  </body>
+</html>
